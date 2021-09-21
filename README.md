@@ -1,1 +1,1 @@
-# terraria-server-repl-it
+# terraria-server-replit
